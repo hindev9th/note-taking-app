@@ -1,0 +1,9 @@
+Package: notetake
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: libgtk-3-0
+Maintainer: Your Name <hindev9th@gmail.com>
+Description: A simple note-taking app
+ A local-only Flutter-based note-taking app with text and drawing support.

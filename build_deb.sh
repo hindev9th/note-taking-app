@@ -35,6 +35,7 @@ Icon=$APP_NAME
 Terminal=false
 Type=Application
 Categories=Utility;GTK;
+StartupWMClass=com.example.note
 EOF
 
 # === TẠO FILE control ===
